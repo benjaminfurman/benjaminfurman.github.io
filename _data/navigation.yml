@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "About"
+    url: /_pages/about
+
+  - title: "Publications"
+    url: /_pages/publications
+
+  - title: "CV"
+    url: /_pages/cv
+
+  - title: "Talks"
+    url: /_pages/talks
