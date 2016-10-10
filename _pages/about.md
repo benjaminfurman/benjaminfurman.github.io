@@ -12,7 +12,7 @@ header:
 
 ## Me
 
-I am a PhD Student currently studying evolutionary genomics in [Ben Evans’ lab](http://benevanslab.wordpress.com/) at McMaster University. I completed my undergrad at the University of Alberta in April 2012, with a specialization degree in Animal Biology. Broadly speaking, I am interested in Evolution and all its peculiarities. At the moment I am working with high throughput genomic data to understand general evolutionary forces that shape aspects of an organism’s genome (particularly sex chromosomes and duplicate genes). (Photo of me an a leopard frog by Adam Bewick.)
+I am a PhD candidate currently studying evolutionary genomics in [Ben Evans’ lab](http://benevanslab.wordpress.com/) at McMaster University. I completed my undergrad at the University of Alberta in April 2012, with a specialization degree in Animal Biology. Broadly speaking, I am interested in Evolution and all its peculiarities. At the moment I am working with high throughput genomic data to understand general evolutionary forces that shape aspects of an organism’s genome (particularly sex chromosomes and duplicate genes).
 <br>
 <br>
 <br>
