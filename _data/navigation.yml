@@ -11,3 +11,6 @@ main:
 
   - title: "Talks"
     url: /_pages/talks
+
+  - title: "Other"
+    url: /_pages/other
