@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Other Things of Interest
 layout: single
 ---
 
