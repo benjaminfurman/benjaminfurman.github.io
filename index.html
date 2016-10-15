@@ -36,13 +36,14 @@ title: "  "
 <h2>A link just for me</h2>
 
 Don't you worry about what this leads to.
+<br>
 
 <body>
-Enter password: <input id='password' type='text'  />
-<a href="/_pages/about/" onclick="javascript:return validatePass()">enter your password and click this</a>
+<input id='password' type='text'  />
+<a href="/_pages/test_protected/" onclick="javascript:return validatePass()">enter</a>
 <script>
 function validatePass(){
-    if(document.getElementById('password').value == 'yourBussinessCardPassword'){
+    if(document.getElementById('password').value == 'borealis'){
         return true;
     }else{
         alert('wrong password!!');
