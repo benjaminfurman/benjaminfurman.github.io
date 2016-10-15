@@ -21,3 +21,33 @@ title: "  "
 {% endfor %}
 
 {% include paginator.html %}
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2>A link just for me</h2>
+
+Don't you worry about what this leads to.
+
+<body>
+Enter password: <input id='password' type='text'  />
+<a href="/_pages/test_protected/" onclick="javascript:return validatePass()">enter your password and click this</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == 'yourBussinessCardPassword'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
+</body>
