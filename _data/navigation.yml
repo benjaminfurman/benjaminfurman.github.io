@@ -14,6 +14,3 @@ main:
 
   - title: "Other"
     url: /_pages/other
-
-  - title: "Misc"
-    url: /_pages/test_protected
