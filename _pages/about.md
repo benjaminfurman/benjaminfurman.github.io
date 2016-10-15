@@ -21,7 +21,7 @@ I am a PhD candidate currently studying evolutionary genomics in [Ben Evans’ l
 My Ph.D. thesis is focussed on 2 broad areas of research:
 
 1. [Sex Chromosome Evolution](/_pages/sex_chr_project/)
-2. [Polyploid Genome Evolution](/_pages/test_protected/)
+2. Polyploid Genome Evolution
 
 I work with African clawed frogs (*Xenopus*) as the entire genus is tetraploid (at minimum, to dodecaploid i.e. 12 copies!), has multiple sex determining systems with homomorphic sex chromosomes, and some species contain the only know master regulator of sex in amphibians (*DM-W*). These frogs have been used as medical and scientific models for many years and are an invasive species in some areas, potentially causing great ecological impact.
 
