@@ -4,4 +4,4 @@ title: Private Page
 ---
 
 
-[To Do list](/_pages/DoingList.md)
+[To Do list](/_pages/DoingList/)
