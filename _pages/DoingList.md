@@ -1,3 +1,9 @@
+---
+layout: single
+title: To Do List
+---
+
+
 # Stuff going on
 My electronic scratchpad of stuff thats happening or needs to happen.
 
@@ -10,7 +16,7 @@ My electronic scratchpad of stuff thats happening or needs to happen.
 - [ ] Windows of physical distance and map distance (say, 3 markers) across laevis mapped linkage map
 - [ ] Summarize results and write method in Duplicate gene paper
 - [ ] Add to Duplicate paper newer WGD papers, especially the Lynch 2015 Paramecium paper
-- [ ] 
+- [ ]
 
 
 
