@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "About"
     url: /_pages/about
@@ -14,3 +14,6 @@ main:
 
   - title: "Other"
     url: /_pages/other
+
+  - title: "Misc"
+    url: /_pages/test_protected
