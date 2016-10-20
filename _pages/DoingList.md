@@ -7,12 +7,16 @@ title: To Do List
 # Stuff going on
 
 My electronic scratchpad of stuff thats happening or needs to happen.
-
-- [ ] **Critique Ben's grant application**
+ 
+- [ ] clean frogs before weekend
+- [ ] Check up with Conner and figure out why amps are not working
+- [ ] Have Sinthu amp mtDNA in her extractions, if not done already
+- [ ] Extract new clivii and froze laevis. Amp DMW in both with positive mtDNA
+- [x] **Critique Ben's grant application**
 - [ ] presentation for undergrads, mid November
 - [ ] presentation for EEB November
 - [ ] shell script for mlRho theta
-- [ ] my own script for pi
+- [x] my own script for pi
 - [ ] Maybe finish borealis mapped linkage map
 - [ ] Windows of physical distance and map distance (say, 3 markers) across laevis mapped linkage map
 - [ ] Summarize results and write method in Duplicate gene paper
