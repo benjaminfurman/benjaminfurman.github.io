@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: About
+title: 
 header:
   overlay_color: "#000"
   overlay_image:  DSC_0145.JPG

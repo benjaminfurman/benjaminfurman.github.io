@@ -1,8 +1,5 @@
 # main links
 main:
-  - title: "About"
-    url: /_pages/about
-
   - title: "Publications"
     url: /_pages/publications
 
