@@ -4,11 +4,9 @@ layout: single
 author_profile: true
 ---
 
-## Sex chromosomes...
+## Sex chromosomes...sounds...sexy
 
-#### sounds...sexy
-
-You bet it is! Sex chromosomes are the portions of the genome that hold the keys to the differentiation of females and males. Sex chromosomes are common in animals, and appear elsewhere in the tree of life too. Some animals use temperature to distinguish sex and others have just a single sex. I find sex chromosomes particularly fascinating. For diploid and diploid like species (i.e. species with more than two copies of their genomes but genetically behave like diploids), there are pairs of chromosomes. One of these pairs are the sex chromosomes and unlike all the other chromosomes they are not equally shared between the sexes.
+You bet it is! Sex chromosomes are the portions of the genome that hold the key to the differentiation of females and males. Sex chromosomes are common in animals, and appear elsewhere in the tree of life too. Some animals use temperature to distinguish sex and others have just a single sex. One pair of chromosomes (in humans there are 23 pairs) are the sex chromosomes and, unlike all the other chromosomes, they are not equally shared between the sexes. This unequal sharing has very interesting evolutionary consequences.
 
 <figure>
 <img src="{{'/assets/img/sex_chr_page/SexChr_domDose.jpg' | prepend: site.baseurl }}" alt="domDose">
@@ -26,13 +24,13 @@ Surprising it is then to learn that the master regulators of sex (i.e. the genes
 
 ## My Project
 
-I study *Xenopus*, the African clawed frogs. I'll do up an introduction to them one day, but they are very curious aquatic frogs. For some species we know that they have ZW sex chromosomes and in some taxa there exists a gene called *DM-W*, which sites on the W chromosomes are its expression leads to female development.
+I study *Xenopus*, the African clawed frogs, which are very curious aquatic frogs. For some species we know that they have ZW sex chromosomes and in some taxa there exists a gene called *DM-W*, which sits on the W chromosomes are its expression leads to female development.
 
-My research focuses on *X. borealis*, a species that appears to lack *DM-W*. My aim is to explore homology (or, lack there of) between this species, the *DM-W* containing species, and the other clade of clawed frogs *Silurana tropicalis*. I am also exploring the sex determining system of *X. borealis*, attempting to find out what is controlling sex determination in this species.
+My research focuses on *X. borealis*, a species that appears to lack *DM-W*. What I have discovered is that, as suspected, *X. borealis* has a novel set of sex chromosomes. Furthermore, this sex determining region contains similar genes to that of mammals, another distantly related frog, and a lizard species. This represents at least 4 times that this genomic region has become established as sex chromosomes.
 
-With this project, we have found support for a model where certain genetic elements are use repeatedly for control of the sex determining in very different species. Basically, when there is a change in the sex determining system, it might not be a completely novel genetic element. Support for this has been found for other species (like birds and a gecko having the same sex chromosomes; fish and mammals and a lizard), and we are adding another case to these studies (results in a forthcoming paper -- in Review).
+With this project, we have found support for a model where certain genetic elements independently evolved as the master regulators of sex determination different species. Basically, when there is a change in the sex determining system, it might not be a completely novel genetic element that takes over. We are continuing this work and investigating recombination in *X. borealis* and exploring genome-wide patterns of sex linkage.
 
 <figure>
-<img src="{{ '/assets/img/sex_chr_page/IntroFig_DMWDuplication.jpg' | prepend: site.baseurl }}" alt="dmw">
-<figcaption>Ambiguous phylogenetic relationships have clouded the history of <i>DM-W</i>, for this project I have performed a lot of phylogenetic analyses to try and sort this out.</figcaption>
+<img src="{{ '/assets/img/sex_chr_page/Fig1_illustratorfont.jpg' | prepend: site.baseurl }}" alt="dmw">
+<figcaption>We performed phylogenetic analyses using over a thousand genes to establish phylogenetic relationships among representatives from the major lineages of <i>Xenopus</i>. From this, we can infer that the ancestor of extant <i>Xenopus</i> had <i>DM-W</i> and the system in <i>X. borealis</i> is a new system, that arose after <i>DM-W</i>.</figcaption>
 </figure>
