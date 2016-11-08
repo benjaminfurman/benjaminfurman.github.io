@@ -6,16 +6,22 @@ title: To Do List
 
 # Stuff going on
 
-My electronic scratchpad of stuff thats happening or needs to happen. Always behind. 
+My electronic scratchpad of stuff thats happening or needs to happen. Always behind, always incomplete, does not reflect all of what I am really doing. This should maybe be in my lab notebooks; I could put it at the head of the file, carry over uncompleted to new months. I'll do that from now on.
 
-- [ ] Update this list
+- [ ] Order plate extraction kit for offspring samples
+- [ ] look at primer designs for sox3 and fmr1 and old amps. Make sure I am targeting heterozygous sites correctly, may need internal primer for fmr1 (could not form contigs before across intron I think)
+- [ ] Non-forced order linkage maps
+- [ ] Runs test of pi?
+- [ ] Assign alpha/beta of duplicate gene project to L and S genomes
+- [ ] Summarize differences in L/S selection and pseudogenization for duplicate gene project
 - [ ] Extract new clivii and froze laevis. Amp DMW in both with positive mtDNA
 - [ ] presentation for undergrads, mid November
 - [ ] presentation for EEB November
 - [ ] shell script for mlRho theta
 - [ ] Summarize results and write method in Duplicate gene paper
 - [ ] Add to Duplicate paper newer WGD papers, especially the Lynch 2015 Paramecium paper
-
+- [ ] evolver simulations to see if codeml artificially detects differences more often in older branches than earlier branches.
+- [ ] Different types of borealis references. Build better. Scaffold?
 
 # nebulous or less important
 
@@ -24,9 +30,7 @@ My electronic scratchpad of stuff thats happening or needs to happen. Always beh
 - [ ] Maybe some Kmer stuff on genome size/low coverage reads with X. borealis HiSeq?
 - [ ] with better reference, map sex specific contigs
 - [ ] Really focus on making better Borealis reference
-- [ ] evolver simulations to see if codeml artificially detects differences more often in older branches than earlier branches.
 - [ ] coeff-variation for alpha v beta v time for the difference calculation
-- [ ] Summary of alpha v beta v time codeml analyses averaging for mutli-species in one gene
 - [ ] trim out out overrepresented sequence in mellotrop single chr seqs seen in FASTqc.
 - [ ] SOAPdenovo on mellotrop libraries Caroline cleaned.
 
@@ -34,7 +38,7 @@ My electronic scratchpad of stuff thats happening or needs to happen. Always beh
 
 ---
 ## Done crap for ref
-
+- [x] Summary of alpha v beta v time codeml analyses averaging for mutli-species in one gene...Ithink it's done?
 - [x] Maybe finish borealis mapped linkage map
 - [x] Windows of physical distance and map distance (say, 3 markers) across laevis mapped linkage map
 - [x] **Critique Ben's grant application**
