@@ -6,22 +6,15 @@ title: To Do List
 
 # Stuff going on
 
-My electronic scratchpad of stuff thats happening or needs to happen.
- 
-- [ ] clean frogs before weekend
-- [ ] Check up with Conner and figure out why amps are not working
-- [ ] Have Sinthu amp mtDNA in her extractions, if not done already
+My electronic scratchpad of stuff thats happening or needs to happen. Always behind. 
+
+- [ ] Update this list
 - [ ] Extract new clivii and froze laevis. Amp DMW in both with positive mtDNA
-- [x] **Critique Ben's grant application**
 - [ ] presentation for undergrads, mid November
 - [ ] presentation for EEB November
 - [ ] shell script for mlRho theta
-- [x] my own script for pi
-- [ ] Maybe finish borealis mapped linkage map
-- [ ] Windows of physical distance and map distance (say, 3 markers) across laevis mapped linkage map
 - [ ] Summarize results and write method in Duplicate gene paper
 - [ ] Add to Duplicate paper newer WGD papers, especially the Lynch 2015 Paramecium paper
-
 
 
 # nebulous or less important
@@ -42,6 +35,13 @@ My electronic scratchpad of stuff thats happening or needs to happen.
 ---
 ## Done crap for ref
 
+- [x] Maybe finish borealis mapped linkage map
+- [x] Windows of physical distance and map distance (say, 3 markers) across laevis mapped linkage map
+- [x] **Critique Ben's grant application**
+- [x] my own script for pi
+- [x] clean frogs before weekend
+- [x] Check up with Conner and figure out why amps are not working
+- [x] Have Sinthu amp mtDNA in her extractions, if not done already
 - [x] Make figures for yn00 analysis for homeolog and blastp comparisons
 - [x] Make figure for codeml analysis, but update when new 3 rate model is done
 - [x] Evolution conference presentation
