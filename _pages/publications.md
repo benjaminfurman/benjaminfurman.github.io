@@ -5,7 +5,7 @@ layout: single
 
 **Furman, B. L. S.**, Cauret, C. M. S., Colby, G. A., Measey, J., and Evans, B. J. (2016). Limited genomic consequences of hybridization between two African clawed frogs, Xenopus gilli and X. laevis (Anura: Pipidae). Scientific Reports In Review.
 
-**Furman B.L.S.** & Evans, Ben J. (2016) Sequential turnovers of sex chromosomes in African clawed frogs (*Xenopus*) suggest some genomic regions are good at sex determination. G3. Available Sept. 6. [PDF](/assets/papers/Furman_Evans_2016_manuscript.pdf)
+**Furman B.L.S.** & Evans, Ben J. (2016) Sequential turnovers of sex chromosomes in African clawed frogs (*Xenopus*) suggest some genomic regions are good at sex determination. G3. Available Sept. 6. [PDF](/assets/papers/Furman_Evans_2016_G3_JournalVersion.pdf)
 
 **Furman, B.L.S.**, Scheffers, B., Taylor, M., Davis, C., Paszkowski, C.A. (2015) Limited genetic structure in a wood frog (Lithobates sylvaticus) population in an urban landscape inhabiting natural and constructed wetlands. Conservation Genetics 17(1):19--30. [PDF](/assets/papers/ConGen2015.pdf)
 
