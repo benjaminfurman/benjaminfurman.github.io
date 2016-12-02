@@ -9,7 +9,7 @@ layout: single
 
 **Furman, B.L.S.**, Scheffers, B., Taylor, M., Davis, C., Paszkowski, C.A. (2015) Limited genetic structure in a wood frog (Lithobates sylvaticus) population in an urban landscape inhabiting natural and constructed wetlands. Conservation Genetics 17(1):19--30. [PDF](/assets/papers/ConGen2015.pdf)
 
-**Furman, B.L.S.**, Bewick, A.J., Harrison, T., Greenbaum, E., Gvozdik, V., Kusamba, C., and Evans, B. (2014) Pan-African phylogeography of a model organism, the African clawed frog “Xenopus laevis“. Molecular Ecology 24(4):909–925. [PDF](/assets/papers/furmanetal2015.pdf)
+**Furman, B.L.S.**, Bewick, A.J., Harrison, T., Greenbaum, E., Gvozdik, V., Kusamba, C., and Evans, B. (2015) Pan-African phylogeography of a model organism, the African clawed frog “Xenopus laevis“. Molecular Ecology 24(4):909–925. [PDF](/assets/papers/furmanetal2015.pdf)
 
 Scheffers, B. R., **Furman, B.L.S.**, and Evans, J. P. (2013). Salamanders continue to breed in ephemeral ponds following the removal of surrounding terrestrial habitat. Herpetological Conservation and Biology, 8(3):715-723. [PDF](/assets/papers/scheffers2013.pdf)
 
