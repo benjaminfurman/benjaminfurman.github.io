@@ -3,7 +3,7 @@ title: Publications
 layout: single
 ---
 
-**Furman, B. L. S.**, Cauret, C. M. S., Colby, G. A., Measey, J., and Evans, B. J. (2016). Limited genomic consequences of hybridization between two African clawed frogs, Xenopus gilli and X. laevis (Anura: Pipidae). Scientific Reports, 7:1091. [PDF](/assets/papers/Furmanetal_2017_SciRepts.pdf)
+**Furman, B. L. S.**, Cauret, C. M. S., Colby, G. A., Measey, J., and Evans, B. J. (2017). Limited genomic consequences of hybridization between two African clawed frogs, Xenopus gilli and X. laevis (Anura: Pipidae). Scientific Reports, 7:1091. [PDF](/assets/papers/Furmanetal_2017_SciRepts.pdf)
 
 **Furman B.L.S.** & Evans, Ben J. (2016) Sequential turnovers of sex chromosomes in African clawed frogs (*Xenopus*) suggest some genomic regions are good at sex determination. G3. 6(Nov 2016):3625--3633. [PDF](/assets/papers/Furman_Evans_2016_G3_JournalVersion_wSupp.pdf)
 
