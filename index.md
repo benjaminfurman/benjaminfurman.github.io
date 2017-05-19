@@ -17,8 +17,8 @@ I am a Ph.D. Candidate currently studying evolutionary genomics in [Ben Evans’
 <br>
 <br>
 
-## My Dissertation
-My Ph.D. research has focussed on two areas of evolutionary genomics:
+## Ph.D. Dissertation
+My research has focussed on two areas of evolutionary genomics:
 
 1. [Sex Chromosome Evolution](/_pages/sex_chr_project/)
 2. Polyploid Genome Evolution
