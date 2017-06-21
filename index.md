@@ -12,7 +12,10 @@ header:
 
 ## Me
 
-I am a Ph.D. Candidate currently studying evolutionary genomics in [Ben Evans’ lab](http://benevanslab.wordpress.com/) at McMaster University. I completed my undergraduate degree at the University of Alberta in April 2012, with a specialization in Animal Biology. 
+I am a Ph.D. Candidate currently studying evolutionary genomics of amphibians in [Ben Evans’ lab](http://benevanslab.wordpress.com/) at McMaster University. I completed my undergraduate degree at the University of Alberta in April 2012, with a specialization in Animal Biology. I've always loved amphibians and reptiles, and my research has focussed on these taxa.  
+
+[Google Scholar Profile](https://scholar.google.ca/citations?user=HRMZkDwAAAAJ&hl=en)
+
 <br>
 <br>
 <br>
