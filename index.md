@@ -17,8 +17,6 @@ I am a Ph. D. Candidate currently studying evolutionary genomics of amphibians i
 [Google Scholar Profile](https://scholar.google.ca/citations?user=HRMZkDwAAAAJ&hl=en)
 
 <br>
-<br>
-<br>
 
 ## Ph. D. Dissertation
 My research has focussed on two areas of evolutionary genomics:
