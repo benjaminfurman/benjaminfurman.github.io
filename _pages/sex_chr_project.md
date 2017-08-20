@@ -24,9 +24,9 @@ Surprising it is then to learn that the master regulators of sex (i.e. the genes
 
 ## My Project
 
-I study *Xenopus*, the African clawed frogs, which are very curious aquatic frogs. For some species we know that they have ZW sex chromosomes and in some taxa there exists a gene called *DM-W*, which sits on the W chromosomes are its expression leads to female development.
+I study *Xenopus*, the African clawed frogs, which are very curious aquatic frogs. For some species we know that they have ZW sex chromosomes and in some taxa there exists a gene called *DM-W*, which sits on the W chromosomes and its expression leads to female development.
 
-My research focuses on *X. borealis*, a species that appears to lack *DM-W*. What I have discovered is that, as suspected, *X. borealis* has a novel set of sex chromosomes. Furthermore, this sex determining region contains similar genes to that of mammals, another distantly related frog, and a lizard species. This represents at least 4 times that this genomic region has become established as sex chromosomes.
+My research focuses on *X. borealis*, a species that appears to lack *DM-W*. What I have confirmed is that, as suspected, *X. borealis* has a novel set of sex chromosomes. Furthermore, this sex determining region contains similar genes to that of mammals, another distantly related frog, and a lizard species. This represents at least 4 times that this genomic region has become established as sex chromosomes.
 
 With this project, we have found support for a model where certain genetic elements independently evolved as the master regulators of sex determination different species. Basically, when there is a change in the sex determining system, it might not be a completely novel genetic element that takes over. We are continuing this work and investigating recombination in *X. borealis* and exploring genome-wide patterns of sex linkage.
 
