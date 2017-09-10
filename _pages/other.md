@@ -10,3 +10,8 @@ I maintain a LaTeX version of the McMaster Thesis template. This template should
 The most recent version available from my [GitHub repo](https://github.com/benjaminfurman/McMaster_Thesis_Template).
 
 An occasionally updated version is available in the [Overleaf templates gallery](https://www.overleaf.com/latex/templates/mcmaster-thesis-example/bjccppctqwgt#.V_wpQNxD9E4).
+
+
+## Shiny Assignments
+
+For a course I TAed, I used R Shiny apps and Amazon web service to provide online assignments to students as a fillable form. [Here are notes](/_pages/shiny_assignments.html) explaining how I did it.
