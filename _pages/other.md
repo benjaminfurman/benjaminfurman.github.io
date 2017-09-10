@@ -14,4 +14,4 @@ An occasionally updated version is available in the [Overleaf templates gallery]
 
 ## Shiny Assignments
 
-For a course I TAed, I used R Shiny apps and Amazon web service to provide online assignments to students as a fillable form. [Here are notes](/_posts/shiny_assignments.html/) explaining how I did it.
+For a course I TAed, I used R Shiny apps and Amazon web service to provide online assignments to students as a fillable form. [Here are notes]({{ site.url }}/_posts/shiny_assignments.html) explaining how I did it.
