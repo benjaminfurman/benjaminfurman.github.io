@@ -6,6 +6,16 @@ header:
   overlay_color: "#000"
   overlay_image:  DSC_0145.JPG
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108597886-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-108597886-1');
+</script>
+
 
 <img src="{{ '/images/moustache.jpg' | prepend: site.baseurl }}" alt="" style="width: 400px; float: right">
 
