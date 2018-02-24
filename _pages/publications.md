@@ -3,9 +3,9 @@ title: Publications
 layout: single
 ---
 
-**Furman, B. L. S.** and Evans, B. J. (2017) Divergent evolutionary trajectories of two young, homomorphic, and closely related sex chromosome systems. *In Review*
+**Furman, B. L. S.**, Dang, U. J., Evans, B. J., and Golding, G. B. (2018) Dynamic and differential purifying selection and pseudogenization in the subgenomes of allopolyploid African clawed frogs (*Xenopus*). *In Review*.
 
-**Furman, B. L. S.**, Dang, U. J., Evans, B. J., and Golding, G. B. (2017) Dynamic and differential purifying selection and pseudogenization in the subgenomes of allopolyploid African clawed frogs (*Xenopus*). *In Review*.
+**Furman, B. L. S.** and Evans, B. J. (2018) Divergent evolutionary trajectories of two young, homomorphic, and closely related sex chromosome systems. *In Press: Genome Biology and Evolution* [PDF](/assets/papers/Furman_Evans_GBE2018.pdf)
 
 **Furman, B. L. S.**, Cauret, C. M. S., Colby, G. A., Measey, J., and Evans, B. J. (2017) Limited genomic consequences of hybridization between two African clawed frogs, *Xenopus gilli* and *X. laevis* (Anura: Pipidae). Scientific Reports 7:1091. [PDF](/assets/papers/Furmanetal_2017_SciRepts.pdf)
 
