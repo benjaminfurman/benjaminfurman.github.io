@@ -31,7 +31,7 @@ I am a Ph. D. Candidate currently studying evolutionary genomics of amphibians i
 ## Ph. D. Dissertation
 My research has focussed on two areas of evolutionary genomics:
 
-1. [Sex Chromosome Evolution](/_pages/sex_chr_project/)
+1. Sex Chromosome Evolution
 2. Polyploid Genome Evolution
 
 I work with African clawed frogs (*Xenopus*) as these species possess a variety of sex determining mechanisms and non-homologous sex chromosomes between some species. As well, they vary in ploidy levels from diploid (two copies of every chromosome, like mammals) up to dodecaploid (i.e., 12 copies of each chromosome!). These frogs have been used as medical and scientific models for many years and are an invasive species in some areas, potentially causing great ecological impact.
