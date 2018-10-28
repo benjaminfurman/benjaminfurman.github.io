@@ -17,26 +17,26 @@ header:
 </script>
 
 
-<img src="{{ '/images/moustache.jpg' | prepend: site.baseurl }}" alt="" style="width: 400px; float: right">
+<img src="{{ '/images/bowtie.jpg' | prepend: site.baseurl }}" alt="" style="width: 400px; float: right">
 
 
 ## Me
 
-I am a Ph. D. Candidate currently studying evolutionary genomics of amphibians in [Ben Evans’ lab](http://benevanslab.wordpress.com/) at McMaster University. I completed my undergraduate degree at the University of Alberta in April 2012, with a specialization in Animal Biology.  
+I am a Postdoctoral Fellow working with [Judith Mank](http://www.zoology.ubc.ca/mank-lab/) at University of British Columbia. I completed my Ph.D. in 2018, working with [Ben Evans](http://benevanslab.wordpress.com/) at McMaster University assessing various aspects of *Xenopus* genome biology. My primary research focus is on how genetic sex determining factors influence genome evolution and generally how differences between the sexes manifest at the genetic level. I also spend a lot of time thinking about polyploidy, phylogenetics, and speciation.
 
 [Google Scholar Profile](https://scholar.google.ca/citations?user=HRMZkDwAAAAJ&hl=en)
 
 <br>
 
 ## Ph. D. Dissertation
-My research has focussed on two areas of evolutionary genomics:
 
-1. Sex Chromosome Evolution
-2. Polyploid Genome Evolution
+My research focussed on discovering and characterizing new sex chromosomes in *Xenopus*. This work focussed on *X. borealis*, and determined that this species has a newly evolved set of sex chromosomes different from the rest of the genus (which itself has a fairly new sex determining system). This system proved quite interesting, as it has rapidly acquired large scale recombination suppression, but the sex chromosomes remain homomorphic (largely similar) to one another.
 
-I work with African clawed frogs (*Xenopus*) as these species possess a variety of sex determining mechanisms and non-homologous sex chromosomes between some species. As well, they vary in ploidy levels from diploid (two copies of every chromosome, like mammals) up to dodecaploid (i.e., 12 copies of each chromosome!). These frogs have been used as medical and scientific models for many years and are an invasive species in some areas, potentially causing great ecological impact.
+*Xenopus* are also interesting for having undergone multiple rounds of genome duplication. Another focus of my research was to look at the impact these events have had on genome restructuring and profiling selection across the genome. This work demonstrated that differences between the diploid progenitor species have likely lead to unequal evolution of the two subgenomes inherited from the ancestors.  
+
+See the [publications page](/_pages/publications/) for papers relating to these projects.
 
 
 ## Genetics and Species
 
-Another interest of mine is to use genetic tools to assess species dynamics. Recently, my colleagues and I studied the phylogeography of the most widespread African clawed frog (*X. laevis*), providing insight on the overall genetic structure of this species and gene flow between it and its close relatives. We've also investigated genetic introgression of the extremely vulnerable *X. gilli* and sympatric *X. laevis* populations. For my undergrad thesis, I assessed the impact of urban development on the genetic connectivity of a wood frog (*Lithobates sylvaticus*) population. See the [publications page](/_pages/publications/) for papers relating to these projects.
+Another interest of mine is to use genetic tools to assess species dynamics. My colleagues and I have studied the phylogeography of the most widespread African clawed frog (*X. laevis*), providing insight on the overall genetic structure of this species and gene flow between it and its close relatives. We've also investigated genetic introgression of the extremely vulnerable *X. gilli* and sympatric *X. laevis* populations. For my undergrad thesis, I assessed the impact of urban development on the genetic connectivity of a wood frog (*Lithobates sylvaticus*) population. See the [publications page](/_pages/publications/) for papers relating to these projects.
