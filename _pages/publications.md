@@ -3,6 +3,8 @@ title: Publications
 layout: single
 ---
 
+
+
 **Furman, B. L. S.**, Dang, U. J., Evans, B. J., and Golding, G. B. (2018) Divergent subgenome evolution after allopolyploidization in African clawed frogs (*Xenopus*). *Journal of Evolutionary Biology*. [PDF, early access view](/assets/papers/JEB-earlyAccept.pdf)
 
 **Furman, B. L. S.** and Evans, B. J. (2018) Divergent evolutionary trajectories of two young, homomorphic, and closely related sex chromosome systems. *Genome Biology and Evolution* 10(3):742--755. [PDF](/assets/papers/Furman_Evans_GBE2018-All.pdf)
