@@ -60,7 +60,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "moustache.jpg" # Open Graph/Twitter default site image
+og_image                 : "DSC_0322_f.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Benjamin Furman, Ph.D."
-  avatar           : "bowtie.jpg"
+  avatar           : "DSC_0322_f.jpg"
   bio              : "Postdoctoral Fellow, studying sex chromosome evolution and sexual antagonism"
   location         : "University of British Columbia"
   email            : "benjamin.ls.furman@gmail.com"
