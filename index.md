@@ -17,7 +17,7 @@ header:
 </script>
 
 
-<img src="{{ '/images/bowtie.jpg' | prepend: site.baseurl }}" alt="" style="width: 400px; float: right">
+<img src="{{ '/images/DSC_0322_f.jpg' | prepend: site.baseurl }}" alt="" style="width: 400px; float: right">
 
 
 ## Me
