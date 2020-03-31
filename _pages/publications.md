@@ -3,9 +3,11 @@ title: Publications
 layout: single
 ---
 
+Caroline MS Cauret, Marie-Theres Gansauge, Andrew S Tupper, **Benjamin LS Furman**, Martin Knytl, Xue-Ying Song, Eli Greenbaum, Matthias Meyer, Ben J Evans. 2020. Developmental systems drift and the drivers of sex chromosome evolution. *Molecular Biology and Evolution* 37(3):799--810. [PDF](/assets/papers/Cauret_etal_MBE_2020.pdf)
 
+Ben J Evans, Marie-Theres Gansauge, Edward L Stanley, **Benjamin LS Furman**, Caroline MS Cauret, Caleb Ofori-Boateng, Václav Gvoždík, Jeffrey W Streicher, Eli Greenbaum, Richard C Tinsley, Matthias Meyer, David C Blackburn. (2019) 14(9): e0220892. [PDF](/assets/papers/2019_PLoSOne_Fraseri_Evans_etal.pdf)
 
-**Furman, B. L. S.**, Dang, U. J., Evans, B. J., and Golding, G. B. (2018) Divergent subgenome evolution after allopolyploidization in African clawed frogs (*Xenopus*). *Journal of Evolutionary Biology*. [PDF, early access view](/assets/papers/JEB-earlyAccept.pdf)
+**Furman, B. L. S.**, Dang, U. J., Evans, B. J., and Golding, G. B. (2018) Divergent subgenome evolution after allopolyploidization in African clawed frogs (*Xenopus*). *Journal of Evolutionary Biology* 31:1945--1958 [PDF](/assets/papers/2018_JEB_DuplicateGene_Evol.pdf)
 
 **Furman, B. L. S.** and Evans, B. J. (2018) Divergent evolutionary trajectories of two young, homomorphic, and closely related sex chromosome systems. *Genome Biology and Evolution* 10(3):742--755. [PDF](/assets/papers/Furman_Evans_GBE2018-All.pdf)
 
