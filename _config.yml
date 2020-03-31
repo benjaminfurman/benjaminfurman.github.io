@@ -79,22 +79,22 @@ analytics:
 author:
   name             : "Benjamin Furman, Ph.D."
   avatar           : "DSC_0322_f.jpg"
-  bio              : "Postdoctoral Fellow, studying sex chromosome evolution and sexual antagonism"
+  bio              : "Postdoctoral Fellow, studying genome evolution and sexual antagonism"
   location         : "University of British Columbia"
-  email            : "benjamin.ls.furman@gmail.com"
+  email            : "furmanbens@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "ben.furman.5"
+  facebook         :
   foursquare       :
   github           : "benjaminfurman"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/benjamin-furman-2310a6164/"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
