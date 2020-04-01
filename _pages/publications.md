@@ -8,6 +8,7 @@ Expression variance to infer sex-specific selection on gene regulation: identify
 
 **Furman, Benjamin L. S.**, van der Bijl, Wouter, Wright, Alison E., and Mank, Judith E. (2020)  *In Review: Genome Biology and Evolution* (PDF available upon request)
 
+
 **Furman, Benjamin LS**, Metzger, David CH , Darolti, Iulia, Wright, Alison E, Sandkam, Benjamin A, Almeida, Pedro, Shu, Jacelyn J, Mank, Judith E. (2020) Sex chromosome evolution: So many exceptions to the rules. *In Review: Genome Biology and Evolution* (PDF available upon request)
 
 Cauret, Caroline MS, Gansauge, Marie-Theres, Tupper, Andrew S, **Furman, Benjamin LS**, Knytl, Martin, Song, Xue-Ying, Greenbaum, Eli, Meyer, Matthias, Evans, Ben J. 2020. Developmental systems drift and the drivers of sex chromosome evolution. *Molecular Biology and Evolution* 37(3):799--810. [PDF](/assets/papers/Cauret_etal_MBE_2020.pdf)
