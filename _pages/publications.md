@@ -5,6 +5,7 @@ layout: single
 
 
 Expression variance to infer sex-specific selection on gene regulation: identifying biologically-relevant thresholds of sex-biased expression.
+
 **Furman, Benjamin L. S.**, van der Bijl, Wouter, Wright, Alison E., and Mank, Judith E. (2020)  *In Review: Genome Biology and Evolution* (PDF available upon request)
 
 **Furman, Benjamin LS**, Metzger, David CH , Darolti, Iulia, Wright, Alison E, Sandkam, Benjamin A, Almeida, Pedro, Shu, Jacelyn J, Mank, Judith E. (2020) Sex chromosome evolution: So many exceptions to the rules. *In Review: Genome Biology and Evolution* (PDF available upon request)
