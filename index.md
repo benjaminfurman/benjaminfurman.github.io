@@ -22,7 +22,7 @@ header:
 
 ## Me
 
-I am a Postdoctoral Fellow working with [Judith Mank](http://www.zoology.ubc.ca/mank-lab/) at the University of British Columbia. I completed my Ph.D. in 2018, working with [Ben Evans](http://benevanslab.wordpress.com/) at McMaster University assessing various aspects of *Xenopus* genome biology. My primary research focus is on how genetic sex determining factors influence genome evolution and, more generally, how differences between the sexes manifest at the genetic level. I also spend a lot of time thinking about polyploidy, phylogenetics, and speciation.
+My research and work has focussed on various aspects of genomic evolution, and I specialize in bioinformatic analysis and interpretation of genomic data. I did a postdoctoral fellowship working with [Judith Mank](http://www.zoology.ubc.ca/mank-lab/) at the University of British Columbia, during which I worked on questions involving the evolution of recombination rates and sex specific genomic evolution. I completed my Ph.D. in 2018, working with [Ben Evans](http://benevanslab.wordpress.com/) at McMaster University assessing various aspects of *Xenopus* genome biology. My primary research focus is on how genetic sex determining factors influence genome evolution and, more generally, how differences between the sexes manifest at the genetic level. I also spend a lot of time thinking about polyploidy, phylogenetics, and speciation.
 
 [Google Scholar Profile](https://scholar.google.ca/citations?user=HRMZkDwAAAAJ&hl=en)
 
@@ -30,7 +30,7 @@ I am a Postdoctoral Fellow working with [Judith Mank](http://www.zoology.ubc.ca/
 
 ## Ph. D. Dissertation
 
-My research focussed on discovering and characterizing new sex chromosomes in *Xenopus*. This work focussed on *X. borealis*, and determined that this species has a newly evolved set of sex chromosomes different from the rest of the genus (the rest of which have a fairly new sex determining system as well). This newer set of sex chromosomes proved quite interesting, as they have rapidly acquired widespread recombination suppression, but the sex chromosomes remain homomorphic (largely similar) to one another.
+My research focussed on discovering and characterizing new sex chromosomes in *Xenopus*. This work centred on *X. borealis*, and determined that this species has a newly evolved set of sex chromosomes different from the rest of the genus (the rest of which have a fairly new sex determining system as well). This newer set of sex chromosomes proved quite interesting, as they have rapidly acquired widespread recombination suppression, but the sex chromosomes remain homomorphic (largely similar) to one another.
 
 *Xenopus* are also interesting for having undergone multiple rounds of genome duplication. Another focus of my research was to look at the impact these events have had on genome restructuring and profiling selection across the genome. This work demonstrated that differences between the diploid progenitor species have likely lead to unequal evolution of the two subgenomes inherited from the ancestors.  
 
