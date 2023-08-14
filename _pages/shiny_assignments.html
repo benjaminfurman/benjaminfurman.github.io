@@ -161,7 +161,7 @@ $(document).ready(function () {
 <li><p>GitHub or Gist (free, but need to launch locally)</p></li>
 <li><p>Custom server with the <a href="https://www.rstudio.com/products/shiny/shiny-server2/">Shiny server</a> (<a href="https://GitHub.com/rstudio/shiny-server">GitHub</a> code) and deployment from your home server/<a href="http://AWS.amazon.com/">Amazon EC2</a>/<a href="https://www.digitalocean.com/">Digital Ocean</a> – <a href="http://deanattali.com/2015/05/09/setup-rstudio-shiny-server-digital-ocean/">see here</a>/whatever you want.</p></li>
 </ol>
-<p>For my purposes, I needed to deploy the app and collect the answers from the students, so I needed to host the app on my own server. I won’t go over that here, but I followed these guides to host it on an Amazon EC2 instance: <a href="http://www.r-bloggers.com/how-to-host-your-shiny-app-on-amazon-ec2-for-mac-osx/">blog1</a> <a href="http://www.r-bloggers.com/hosting-shiny-on-amazon-ec2/?relatedposts_hit=1&amp;relatedposts_origin=92857&amp;relatedposts_position=0">blog2</a>. There was one notable change I had to make while following these; the quotes in the install step needed to be escaped:</p>
+<p>For my purpose, I needed to deploy the app and collect the answers from the students, so I needed to host the app on my own server. I won’t go over that here, but I followed these guides to host it on an Amazon EC2 instance: <a href="http://www.r-bloggers.com/how-to-host-your-shiny-app-on-amazon-ec2-for-mac-osx/">blog1</a> <a href="http://www.r-bloggers.com/hosting-shiny-on-amazon-ec2/?relatedposts_hit=1&amp;relatedposts_origin=92857&amp;relatedposts_position=0">blog2</a>. There was one notable change I had to make while following these; the quotes in the install step needed to be escaped:</p>
 <div class="sourceCode"><pre class="sourceCode bash"><code class="sourceCode bash"><span class="co"># like this</span>
 <span class="fu">sudo</span> su - -c <span class="st">&quot;R -e </span><span class="dt">\&quot;</span><span class="st">install.packages('shiny', repos = 'http://cran.rstudio.com/')</span><span class="dt">\&quot;</span><span class="st">&quot;</span>
 
@@ -169,7 +169,7 @@ $(document).ready(function () {
 <span class="fu">sudo</span> su - -c <span class="st">&quot;R -e &quot;</span>install.packages(<span class="st">'shiny'</span>, repos = <span class="st">'http://cran.rstudio.com/'</span>)<span class="st">&quot;&quot;</span></code></pre></div>
 </div>
 <div id="the-little-i-know-about-shiny" class="section level2">
-<h2>The little I know about Shiny</h2>
+<h2>What I know about Shiny</h2>
 <p>Shiny apps involve 2 scripts: ui.R and server.R (and can be combined into one script). The ui.R script has the layout and content of the app and the server.R contains the control of the app. The commands for adding content are apparently similar to HTML tags. So headers are h1(), h2(), etc., for different sizes, paragraphs are p(), breaks are br(), and so on. Don’t forget commas at the end of a line!</p>
 <div id="the-ui.r-script" class="section level4">
 <h4>The ui.R script</h4>
@@ -319,7 +319,7 @@ textareaInput &lt;-<span class="st"> </span><span class="cf">function</span>(id,
 )</code></pre></div>
 <p>We also added to the end an “actionButton”, which will be the submit button. This is named “submit”.</p>
 <p>General notes: make sure to give names to the Input commands, why will become clear in a minute. Labels can be left blank. Alternatively, the question could be displayed in the command label (I didn’t like how it looked).</p>
-<p>That is the ui.R script. Of course the real assignment had more content, but this showcases a few examples. Now lets turn our attention to the server.R script, something I know much less about :/</p>
+<p>That is the ui.R script. Of course the real assignment had more content, but this showcases a few examples. Now lets turn our attention to the server.R script.</p>
 </div>
 <div id="the-server.r-script" class="section level4">
 <h4>The server.R script</h4>
@@ -363,7 +363,7 @@ textareaInput &lt;-<span class="st"> </span><span class="cf">function</span>(id,
               <span class="dt">row.names =</span> <span class="ot">FALSE</span>, <span class="dt">quote =</span> F,<span class="dt">col.names =</span> F)
   }
 })</code></pre></div>
-<p>This function take in the field data from the fields in the ui.R script (i.e. the textInput() commands), creates a name bases off the name field, and writes a text file. I have the responses on different lines, separated by a newline, the word “endQ”, followed by 2 newlines. Seems funny, I know, but I like how it looks…so ya.</p>
+<p>This function take in the field data from the fields in the ui.R script (i.e. the textInput() commands), creates a name bases off the name field, and writes a text file. I have the responses on different lines, separated by a newline, the word “endQ”, followed by 2 newlines. Seems funny, I know, but I like how it looks.</p>
 <p>An <strong>important point</strong>, this function saves the files to a directory called “responses/”, which needs to be created in the same directory that hosts the ui.R and server.R scripts (like we did for the picture and the www file).</p>
 <p>Now what we want is to save when the submit button is pressed. Remember we named it “submit”, so we can observe its action with the following bit added.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">fields &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;name&quot;</span>,<span class="st">&quot;trees&quot;</span>,<span class="st">&quot;horVert&quot;</span>, <span class="st">&quot;chars1&quot;</span>, <span class="st">&quot;chars2&quot;</span>)
@@ -386,7 +386,7 @@ textareaInput &lt;-<span class="st"> </span><span class="cf">function</span>(id,
   })
 })</code></pre></div>
 <p>So what we have now is an R app that will present questions to students and save the output that they ender in the folder where we’re hosting the app. But when they hit the submit button nothing will happen. If they continue to hammer on it, it will just re-save the file over and over. One way to provide a little confidence is to add a little pop-up message saying we’ve received the input.</p>
-<p>The way to do this is with a little javascript, which I found on this <a href="https://github.com/rstudio/shiny-examples/tree/master/061-server-to-client-custom-messages">GitHub Repo</a> (thanks!). This little script should be called “message-handler.js” and placed in the www folder (same place as the picture).</p>
+<p>The way to do this is with a little javascript, which I found on this <a href="https://github.com/rstudio/shiny-examples/tree/master/061-server-to-client-custom-messages">GitHub Repo</a>. This little script should be called “message-handler.js” and placed in the www folder (same place as the picture).</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="op">/</span><span class="er">/</span><span class="st"> </span>This recieves messages of type <span class="st">&quot;testmessage&quot;</span> from the server.
 <span class="kw">Shiny.addCustomMessageHandler</span>(<span class="st">&quot;testmessage&quot;</span>,
   <span class="cf">function</span>(message) {
